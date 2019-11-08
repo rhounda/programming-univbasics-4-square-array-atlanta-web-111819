@@ -5,7 +5,7 @@ def square_array(array)
   puts array[counter] 
   couter += 1
   
-  count = array.sqrt
+  count = array ** 2
   
   puts count
   
